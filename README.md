@@ -19,7 +19,7 @@ pip install -r requirements.txt
 Run the python file directly
 
 ```bash
-python video_editor.py input.mp4 1000 output.mp4 --duration 20
+python frame_shifter.py input.mp4 1000 output.mp4 --duration 20
 ```
 
 Or use it in your code
